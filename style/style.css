@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+}
+.bigrapper {
+  width: 100%;
+  height: 400px;
+  background-image: url("../image/dd.jpg");
+  background-position: center top;
+  border-top: 10px solid #5385c1;
+}
+.header {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  top: 50px;
+}
+.header .big1 {
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  float: left;
+}
+.header ul {
+  float: right;
+}
+.header h1 {
+  clear: both;
+}
+.header ul li {
+  list-style: none;
+  float: right;
+  color: #fff;
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: semi bold;
+}
+.header h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 45px;
+  font-weight: lighter;
+  position: relative;
+  top: 50px;
+}
+.header .small1 {
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  position: relative;
+  top: 50px;
+}
+.wrapper2 {
+  width: 60%;
+  height: 250px;
+  margin: 0 auto;
+  padding: 100px 0px;
+}
+.main {
+  width: 30%;
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+}
+.main h3 {
+  font-weight: bold;
+  font-size: 18px;
+  color: #5385c1;
+  line-height: 30px;
+}
+.main p {
+  line-height: 20px;
+  font-size: 11px;
+  color: #5385c1;
+  font-weight: bold;
+}
+.main button {
+  background-color: #5385c1;
+  color: #fff;
+  padding: 13px 15px;
+  width: 65px;
+  height: 35px;
+  border: 0px;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+}
+.addborder {
+  border-style: solid;
+  border-width: 0px 1px 0px 0px;
+  border-color: #dbdbdb;
+}
+.team {
+  width: 100%;
+  background-color: #5385c1;
+  color: #fff;
+}
+.fixedwidth {
+  width: 60%;
+  margin: 0 auto;
+  padding: 60px 0px;
+}
+.fixedwidth h1 {
+  font-weight: 200;
+  text-align: center;
+  font-size: 45px;
+}
+.fixedwidth p {
+  font-size: 16 px;
+  text-align: center;
+  font-weight: 300;
+}
+.name {
+  width: 20%;
+  text-align: center;
+  border: 1px solid #dbdbdb;
+  padding: 30px 5px;
+  float: left;
+  margin-right: 34px;
+  margin-top: 50px;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.name img {
+  border-radius: 100%;
+  width: 70%;
+}
+.last {
+  width: 60%;
+  margin: 0 auto;
+  padding: 60px 0px;
+}
+
+.last h1 {
+  text-align: center;
+  color: #5385c1;
+  font-weight: 100;
+  font-size: 30px;
+  line-height: 13px;
+}
+.last p {
+  text-align: center;
+  color: #5385c1;
+  font-size: 13px;
+}
+.nuc1 {
+  width: 44%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.nuc1 img {
+  width: 100%;
+}
+.nuc1 p {
+  font-size: 11px;
+  text-align: justify;
+  line-height: 20px;
+  font-weight: bold;
+}
+.nuc1 h3 {
+  color: #5385c1;
+}
+.nuc1 button {
+  background-color: #5385c1;
+  color: #fff;
+  padding: 11px 16px;
+  width: 70px;
+  height: 35px;
+  border: 0px;
+  font-size: 12px;
+  font-weight: bold;
+}
+hr {
+  clear: both;
+  position: relative;
+  top: 50px;
+  color: #dadbe4;
+}
+.final p {
+  text-align: left;
+  margin-top: 50px;
+}
+.final .social {
+  color: #5385c1;
+  text-align: right;
+  position: relative;
+  top: -34px;
+}
+.social span {
+  padding-left: 20px;
+  font-size: 20px;
+}
